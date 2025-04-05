@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body{
+  overflow-x: hidden
+  ;
+}
+
+@media (max-width: 768px) {
+    .nav{
+        display: none;
+    }
+
+    .icone-menu{
+      display: block;
+    }
+
+    .navg{
+      margin-right: 20px;
+    }
+
+    .title{
+      margin-left: 1px;
+    }
+  }
+
+@media (min-width: 768px) {
+  .menu{
+    display: none;
+  }
+}
+
+  
+
