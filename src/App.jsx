@@ -8,7 +8,6 @@ import Sobre from "./components/Sobre";
 import Projetos from "./components/Projetos";
 import Contato from "./components/Contato";
 import Redes from "./components/Redes";
-
 function App() {
   const [darkMode, useDarkMode] = useState(false);
   const [menuAberto, setMenuAberto] = useState(false);

@@ -5,7 +5,7 @@ function Projetos() {
       altura: 320,
       nome: "Jonh Music",
       github: "https://github.com/Joao-7/john-Music.git",
-      imagem: "../public/images/print-jonhmusic.png",
+      imagem: "../images/print-jonhmusic.png",
       alt: "projeto 1",
       tecnologias: ["HTML", "CSS", "JavaScript"],
     },
