@@ -12,11 +12,11 @@ function Projetos() {
     {
       id: 2,
       altura: 300,
-      nome: "Trabalhando",
-      github: "",
-      imagem: "",
+      nome: "Sistema de Gerenciamento de Batalha RPG",
+      github: "https://github.com/Joao-7/Projeto_POO_1-BIM.git",
+      imagem: "../images/print-RPG.png",
       alt: "projeto 2",
-      tecnologias: [""],
+      tecnologias: ["JAVA"],
     },
     {
       id: 3,
